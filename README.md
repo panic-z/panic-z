@@ -1,7 +1,6 @@
 ## 你好，我是 Daniel 👋
 
 🐕 Vibe Coder | AI Builder  
-💼 白天搬砖，晚上 vibe coding  
 
 ---
 
