@@ -1,12 +1,11 @@
 
 ## Hi, I'm Daniel ｜ 你好，我是 Daniel 👋
-
-🤖 AI Agent 工程师｜后端系统开发  
-🤖 AI Agent Engineer | Backend System Builder  
+  
+🤖 AI Builder | Backend System Builder  
 
 ---
 
-> Building AI systems that think, act, and scale.
+> Building something useful — or just fun.
 
 ---
 
