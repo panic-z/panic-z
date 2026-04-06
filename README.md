@@ -1,10 +1,16 @@
-## 你好，我是 Daniel 👋
 
-🐕 Vibe Coder | AI Builder  
+## Hi, I'm Daniel ｜ 你好，我是 Daniel 👋
+
+🤖 AI Agent 工程师｜后端系统开发  
+🤖 AI Agent Engineer | Backend System Builder  
 
 ---
 
-### 🛠️ 最近在搞
+> Building AI systems that think, act, and scale.
+
+---
+
+### 🛠️ Current Projects｜最近在搞
 - 📰 **ai-info** — 聚合 各种优质AI消息源 的 AI 信息流网站
 
 
